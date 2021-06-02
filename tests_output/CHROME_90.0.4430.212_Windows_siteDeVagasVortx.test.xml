@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="siteDeVagasVortx.test"
+    errors="0" failures="0" hostname="" id="" package="siteDeVagasVortx.test" skipped="0"
+    tests="3" time="12.08" timestamp="">
+  
+    <testcase name="Dado que pesquiso por Vórtx no google" classname="siteDeVagasVortx.test" time="6.198" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Quando acesso a sessão TRABALHE CONOSCO no site da Vórtx" classname="siteDeVagasVortx.test" time="0.2230" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Então visualizo a página do kenoby com as vagas disponíveis" classname="siteDeVagasVortx.test" time="5.656" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
